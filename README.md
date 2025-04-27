@@ -9,9 +9,7 @@ This project analyzes energy data for **Indonesia**, **Malaysia**, and **Singapo
 
 The dataset includes global energy production, consumption, carbon intensity, electricity demand, and many other energy-related metrics.
 
----
-
-## 🔥 Project Structure
+## Project Structure
 
 - **1. Data Preparation**
   - Filter for Indonesia, Malaysia, and Singapore.
@@ -25,8 +23,6 @@ The dataset includes global energy production, consumption, carbon intensity, el
 - **3. Forecasting**
   - Forecast future electricity demand and renewables electricity using time-series models.
 
----
-
-## 📄 License
+## License
 
 Data source is publicly available from [Our World in Data](https://ourworldindata.org/energy) under [Creative Commons BY license](https://creativecommons.org/licenses/by/4.0/).
